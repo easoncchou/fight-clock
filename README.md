@@ -15,4 +15,4 @@ Fight-Clock is an interval timer designed for boxing, MMA, and workout rounds. I
 - BREAK_TIME: time between rounds
 - TOTAL_ROUNDS: total number of rounds
 
-Made with Arduino by Eason Chou
+Made for the Arduino UNO R3
