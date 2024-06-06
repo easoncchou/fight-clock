@@ -10,4 +10,9 @@ Fight-Clock is an interval timer designed for boxing, MMA, and workout rounds. I
 - **Buzzer Alerts:** Audible alerts to signal the start and end of each round.
 - **Pause Button:** Pause the timer at any point during your workout.
 
+### Changeable Parameters
+- FIGHT_TIME: length of each round
+- BREAK_TIME: time between rounds
+- TOTAL_ROUNDS: total number of rounds
+
 Made with Arduino by Eason Chou
