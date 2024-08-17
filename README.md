@@ -2,6 +2,9 @@
 
 Fight-Clock is an interval timer designed for boxing, MMA, and workout rounds. It features a buzzer to signal the start and end of rounds, and allows you to customize the round length, break-between-rounds length, and the number of rounds. Additionally, it includes a pause button for added flexibility during your training sessions.
 
+![Fight Clock]()
+
+
 ## Features
 
 - **Adjustable Round Length:** Set the duration of each round to suit your training needs.
